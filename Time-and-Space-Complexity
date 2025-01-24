@@ -25,3 +25,5 @@ public class time_and_space_complexity {
 # In the sixth step, the print statement will be executed and so on.
 
 ##Space Complexity
+
+space that we use additionally to solve a problem
