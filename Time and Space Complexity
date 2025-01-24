@@ -1,0 +1,27 @@
+
+##Time Complexity
+
+The time complexity of a code depends on the size of the input, not on the computer running the code. 
+So, if you have bigger input, it will take longer to run the code. 
+Simple as that!
+
+##Code
+'''package Strivers_A2Z_DSA_Course;
+
+public class time_and_space_complexity {
+    public static void main (String[] args){
+        for(int i = 0; i < 10; i++){
+            System.out.println("Ayush");
+        }
+    }
+}'''
+# Let’s observe the steps for this code:
+
+# First, the assigning step(i = 0) will be done.
+# The second step will be the comparison i.e. i < 10.
+# The third step will be the print statement (i.e. System.out.println("Ayush");).
+# The fourth step will be the increment(i.e. i++).
+# In the fifth step, the updated value of i will be again checked i.e. the comparison(i < 10).
+# In the sixth step, the print statement will be executed and so on.
+
+##Space Complexity
