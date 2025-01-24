@@ -1,4 +1,4 @@
-# A2Z-JAVA
+# Strivers A2Z DSA Course/Sheet
 
 # DSA Solutions in Java
 
